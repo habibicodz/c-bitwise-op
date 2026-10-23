@@ -1,5 +1,4 @@
 #include "stdio.h"
-#include "string.h"
 
 int calculateLength(char *str);
 void capitalize(char *str);
